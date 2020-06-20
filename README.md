@@ -1,1 +1,2 @@
-# JHC-
+# JHC
+JavaScript, HTML, CSS
